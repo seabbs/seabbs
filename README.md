@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a infectious disease researcher interested in real-time analysis
+#### I'm an infectious disease researcher interested in real-time analysis
 
 ##### NOW
 
