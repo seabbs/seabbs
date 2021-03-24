@@ -12,7 +12,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **London School of Hygiene and Tropical Medicine**
-- 📜 I did my PhD at the **University of Bristol** (2019)
+- 📜 I did my [PhD](https://github.com/seabbs/thesis) at the **University of Bristol** (2019)
 - ⚙️ I use daily: `R`, `stan`
 - 🏗️ I like to perform analysis using novel models on interesting data and generalise those approaches into software 📦s 
 - 🌍 I'm mostly active within the **R Community**
