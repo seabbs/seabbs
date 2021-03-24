@@ -7,7 +7,7 @@
 - Working at the **London School of Hygiene and Tropical Medicine** in the [Epiforecast](https://github.com/epiforecasts/) group as a research fellow; 
 - ✨ Crafted last [idbrms](https://github.com/epiforecasts/idbrms) :package:; 
 - ⭐ Refactoring [EpiNow2](https://github.com/epiforecasts/idbrms);
-- 🧻 Currently working on evaluating a Covid-19 forecasting approach in Germany/Poland.
+- 🧻 Currently working on evaluating a [Covid-19 forecasting approach in Germany/Poland](https://github.com/epiforecasts/covid.german.forecasts).
 
 ##### BIO
 
