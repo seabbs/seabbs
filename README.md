@@ -5,8 +5,8 @@
 ##### NOW
 
 - Working at the **London School of Hygiene and Tropical Medicine** in the [Epiforecasts](https://github.com/epiforecasts/) group as a research fellow; 
-- ⭐ Crafting [epinowcast](https://github.com/epiforecasts/epinowcast) :package:;
-- ✨ Crafted last [forecast.vocs](https://github.com/epiforecasts/forecast.vocs) :package:; 
+- ⭐ Crafting [epinowcast](https://github.com/epiforecasts/epinowcast) 📦;
+- ✨ Crafted last [forecast.vocs](https://github.com/epiforecasts/forecast.vocs) 📦; 
 - 🧻 Currently working on:
     - [Evaluating the use of real-time sequences for short-term forecasting](https://github.com/epiforecasts/evaluate-delta-for-forecasting)
     - [Evaluating a new method for nowcasting right truncated count data](https://github.com/epiforecasts/eval-germany-sm-nowcasting).
