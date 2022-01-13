@@ -8,7 +8,7 @@
 - ⭐ Crafting extensions to [forecast.vocs](https://github.com/epiforecasts/forecast.vocs) 📦;
 - ✨ Crafted last [epinowcast](https://github.com/epiforecasts/epinowcast) 📦; 
 - 🧻 Currently working on:
-    - [Estimation of the test to test distribution as a proxy for generation interval distribution for the Omicron variant in Englan](https://www.medrxiv.org/content/10.1101/2022.01.08.22268920)
+    - [Estimation of the test to test distribution as a proxy for generation interval distribution for the Omicron variant in England](https://www.medrxiv.org/content/10.1101/2022.01.08.22268920)
     - [Real-time estimation of the time-varying transmission advantage of Omicron in England using S-Gene Target Status as a Proxy](https://epiforecasts.io/omicron-sgtf-forecast/summary)
     - [Evaluating the use of real-time sequences for short-term forecasting](https://github.com/epiforecasts/evaluate-delta-for-forecasting)
     - [Evaluating a new method for nowcasting right truncated count data](https://github.com/epiforecasts/eval-germany-sm-nowcasting).
