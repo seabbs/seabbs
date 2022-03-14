@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### I'm an infectious disease researcher interested in real-time analysis, forecasting, semi-mechanstic modelling, and open source tool development. More on my research interests [here](https://samabbott.co.uk/research).
+##### I'm an infectious disease researcher interested in real-time analysis, forecasting, semi-mechanistic modelling, and open source tool development. More on my research interests [here](https://samabbott.co.uk/research).
 
 ##### NOW
 
