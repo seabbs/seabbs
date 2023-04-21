@@ -4,8 +4,8 @@
 
 ##### NOW
 
-- 90% @[**CDC Centre for Forecast and Outbreak Analytics**](https://www.cdc.gov/forecast-outbreak-analytics/index.html);
-- 10% @[**Epiforecasts**](https://github.com/epiforecasts/) (part of the **London School of Hygiene and Tropical Medicine**); 
+- @[**CDC Centre for Forecast and Outbreak Analytics**](https://www.cdc.gov/forecast-outbreak-analytics/index.html);
+- @[**Epiforecasts**](https://github.com/epiforecasts/) (part of the **London School of Hygiene and Tropical Medicine**); 
 - ⭐ Contributing to the [epinowcast community](https://epinowcast.org) developing tools and methods for current surveillance of infectious disease and preparing for future outbreaks;
 - 🧻 Currently working on:
     - [Estimating delay distributions accounting for common biases](https://github.com/parksw3/epidist-paper)
