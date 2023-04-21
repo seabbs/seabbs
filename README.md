@@ -15,7 +15,9 @@
 ##### BIO
 
 - 🏢 I'm currently working with **CDC Centre for Forecast and Outbreak Analytics** and at the **London School of Hygiene and Tropical Medicine**
-- 📜 I did my [PhD](https://github.com/seabbs/thesis) at the **University of Bristol**
+- 🏢 2020-2023: Postdoc in real-time modelling of infectious disease w/ [Sebastian Funk](https://www.lshtm.ac.uk/aboutus/people/funk.sebastian) at the **London School of Hygiene and Tropical Medicine**
+- 🏢 2017-2019: Data Scientist at [Funding Circle](https://www.fundingcircle.com/uk/)
+- 📜 2016-2019: [PhD](https://github.com/seabbs/thesis) at the **University of Bristol** on modelling the use of the BCG vaccine in the UK
 - ⚙️ I use daily: `R`, `stan`
 - 🏗️ I like to perform analysis using novel models on interesting data and generalise those approaches into software 📦s 
 - 🌍 I'm mostly active within the [**epinowcast community**](https://epinowcast.org)
