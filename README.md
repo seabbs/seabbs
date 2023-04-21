@@ -10,6 +10,7 @@
 - 🧻 Currently working on:
     - [Estimating delay distributions accounting for common biases](https://github.com/parksw3/epidist-paper)
     - [Developing a workbench for real-time and outbreak infectious disease modelling](https://package.epinowcast.org/articles/model)
+    - 😴 🔌 🐑
 
 ##### BIO
 
