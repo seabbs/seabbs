@@ -4,8 +4,7 @@
 
 ##### NOW
 
-- Mostly working @[**Epiforecasts**](https://github.com/epiforecasts/) (part of the **London School of Hygiene and Tropical Medicine**);
-- Also supporting @[**CDC Centre for Forecast and Outbreak Analytics**](https://www.cdc.gov/forecast-outbreak-analytics/index.html);
+- Working @[**Epiforecasts**](https://github.com/epiforecasts/) (part of the **London School of Hygiene and Tropical Medicine**);
 - ⭐ Contributing to the [epinowcast community](https://epinowcast.org) developing tools and methods for current surveillance of infectious disease and preparing for future outbreaks;
 - 🧻 Currently working on:
     - [If we want an estimate of the reproduction number do we need the renewal process?](https://github.com/cdcgov/Rt-without-renewal) and associated Julia modelling toolkit.
