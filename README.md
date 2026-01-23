@@ -2,7 +2,7 @@
 
 ##### I'm an infectious disease researcher interested in real-time analysis, forecasting, semi-mechanistic modelling, and open-source tool development.
 
-See @seabbs-bot for recent bot-supported work.
+See [@seabbs-bot](https://github.com/seabbs-bot) for recent bot-supported work.
 
 ##### NOW
 
